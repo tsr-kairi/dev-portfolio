@@ -10,7 +10,7 @@ export const services: IServices[] = [
     Icon: RiComputerLine,
     title: "Frontend Development",
     description:
-      "I can build a beautiful and scalable SPA using <b> HTML</b>,<b>CSS</b>   and <b>React.js</b> ",
+      "I can build a beautiful and scalable SPA using <b> HTML</b>,<b>CSS</b> and <b>React.js</b> ",
   },
   {
     Icon: FaServer,
@@ -21,24 +21,24 @@ export const services: IServices[] = [
   {
     Icon: AiOutlineApi,
     title: "API Development",
-    description: "I can develop robust  REST API using <b>axios</b>  & <b>Node API</b> ",
+    description: "I can develop robust REST API using <b>axios</b> & <b>Node API</b> ",
   },
   {
     Icon: MdDeveloperMode,
     title: "Competitive Coder",
-    description: "a daily problem solver in <b>HackerRank</b>  and <b>Leet Code</b> ",
+    description: "a daily problem solver in <b>HackerRank</b> and <b>Leet Code</b> ",
   },
   {
     Icon: AiOutlineAntDesign,
     title: "UI/UX designer",
     description:
-      "stunning user interface designer using <b>Figma</b>  and  <b>Framer</b> ",
+      "stunning user interface designer using <b>Figma</b> and <b>Framer</b> ",
   },
   {
     Icon: RiComputerLine,
     title: "Whatever",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem! ",
   },
 ];
 
@@ -122,7 +122,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["html/css"],
     description:
-      "An web app which shows how an individual student's marks are distributed across the subjects",
+      "An web app which shows how an individual student's marks are distributed across the subjects ",
     key_techs: ["React", "Tailwind CSS"],
   },
 
@@ -134,7 +134,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["html/css", "mongo"],
     description:
-      "A simple todo app which allows you to add, delete and edit your todo list",
+      "A simple todo app which allows you to add, delete and edit your todo list ",
     key_techs: ["React", "Material UI"],
   },
 
@@ -145,7 +145,7 @@ export const projects: IProject[] = [
     deployed_url: "https://sumit-chat.netlify.app/",
     github_url: "https://github.com/tsr-kairi",
     category: ["mongo"],
-    description: "An animated navigation bar is that animates in and out",
+    description: "An animated navigation bar is that animates in and out ",
     key_techs: ["React", "Tailwind CSS"],
   },
 
@@ -157,7 +157,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["next"],
     description:
-      "A simple local storage app is an app which stores data in local storage",
+      "A simple local storage app is an app which stores data in local storage ",
     key_techs: ["React", "Tailwind CSS"],
   },
   {
@@ -168,7 +168,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["html/css"],
     description:
-      "A simple local storage app is an app which stores data in local storage",
+      "A simple local storage app is an app which stores data in local storage ",
     key_techs: ["React", "Tailwind CSS"],
   },
   {
@@ -179,7 +179,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["react"],
     description:
-      "A simple local storage app is an app which stores data in local storage",
+      "A simple local storage app is an app which stores data in local storage ",
     key_techs: ["React", "Tailwind CSS"],
   },
   {
@@ -190,7 +190,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["next"],
     description:
-      "A simple local storage app is an app which stores data in local storage",
+      "A simple local storage app is an app which stores data in local storage ",
     key_techs: ["React", "Tailwind CSS"],
   },
   {
@@ -201,7 +201,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["react"],
     description:
-      "A simple local storage app is an app which stores data in local storage",
+      "A simple local storage app is an app which stores data in local storage ",
     key_techs: ["React", "Tailwind CSS"],
   },
   {
@@ -212,7 +212,7 @@ export const projects: IProject[] = [
     github_url: "https://github.com/tsr-kairi",
     category: ["mongo"],
     description:
-      "A simple local storage app is an app which stores data in local storage",
+      "A simple local storage app is an app which stores data in local storage ",
     key_techs: ["React", "Tailwind CSS"],
   },
 ];
